@@ -1,0 +1,9 @@
+---
+main:
+  - name: LPIC1
+    ref: "/lpic1"
+    sub:
+      - name: 101.1 Arquitectura del sistema
+        ref: "/lpic1/101.1-Arquitectura-del-sistema.md"
+      - name: 101.2 Iniciant el sistema
+        ref: "/lpic1/101.2-Iniciant-el-sistema.md"
