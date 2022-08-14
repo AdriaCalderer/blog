@@ -5,3 +5,6 @@ date: {{ .Date }}
 
 
 {{< toc (format=[html|raw]) >}}
+
+
+això és posts
